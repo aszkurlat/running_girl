@@ -1,2 +1,7 @@
 # running_girl
-Running Girl - simple animation
+Running Girl - simple sprite animation
+
+Using:
+- html
+- css
+- keyframes
