@@ -6,4 +6,4 @@ Using:
 - css
 - keyframes
 
-![](running_girl.png)
+![Screenshot](running_girl.PNG)
